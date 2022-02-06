@@ -1,0 +1,26 @@
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ip/design_1_proc_sys_reset_0_0/sim/design_1_proc_sys_reset_0_0.vhd" \
+"../../../bd/design_1/ip/design_1_v_tc_0_0/sim/design_1_v_tc_0_0.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/ClockGen.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/SyncAsync.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/SyncAsyncReset.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/DVI_Constants.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/OutputSERDES.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/TMDS_Encoder.vhd" \
+"../../../../Atelier.gen/sources_1/bd/design_1/ipshared/d57c/src/rgb2dvi.vhd" \
+"../../../bd/design_1/ip/design_1_rgb2dvi_0_0/sim/design_1_rgb2dvi_0_0.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_1/ip/ip_1/sim/bd_ec8a_psr_aclk_0.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_0/ip/ip_4/sim/bd_d92b_rst_axis_0.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_0/ip/ip_5/sim/bd_d92b_reset_sel_axis_0.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/bd_0/sim/bd_d92b.vhd" \
+"../../../bd/design_1/ip/design_1_v_proc_ss_0_0/sim/design_1_v_proc_ss_0_0.vhd" \
+"../../../bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_48ac_psr0_0.vhd" \
+"../../../bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_2/sim/bd_48ac_psr_aclk_0.vhd" \
+"../../../bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_3/sim/bd_48ac_psr_aclk1_0.vhd" \
+"../../../bd/design_1/ip/design_1_testPatternGenerator_0_0/sim/design_1_testPatternGenerator_0_0.vhd" \
+"../../../bd/design_1/ipshared/7f03/hdl/myColorRegister_v1_0_S00_AXI.vhd" \
+"../../../bd/design_1/ipshared/7f03/hdl/myColorRegister_v1_0.vhd" \
+"../../../bd/design_1/ip/design_1_myColorRegister_0_0/sim/design_1_myColorRegister_0_0.vhd" \
+"../../../bd/design_1/sim/design_1.vhd" \
+
+nosort

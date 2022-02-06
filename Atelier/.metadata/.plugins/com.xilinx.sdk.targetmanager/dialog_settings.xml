@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="Atelier2_vitis_3_system-bitFile" value="${project_loc:Atelier2_vitis_3}/_ide/bitstream/design_1_wrapper.bit"/>
+	<item key="Atelier2_vitis_3_system-bmmFile" value=""/>
+	<item key="Atelier2_vitis_3_system-target" value="Local"/>
+	<item key="Atelier2_vitis_3_system-device" value="Auto Detect"/>
+	<item key="Atelier2_vitis_3_system-partial_bit" value="false"/>
+	<item key="Atelier2_vitis_3_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="Atelier2_vitis_3_system"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Zybo Z7 210351A78087A&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Zybo Z7-210351A78087A-4ba00477-0&quot;,&quot;3&quot;:&quot;jsn-Zybo Z7-210351A78087A-13722093-0&quot;}}]}"/>
+</section>
